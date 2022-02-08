@@ -1,9 +1,9 @@
 ---
 name: Recherche
-about: Literatur und Tools finden
-title: ''
-labels: Literatur, Technik
-assignees: ''
+about: Literaturrecherche
+title: 'Eine Einführung in die Cloud-, Edge-, Fog-Computing'
+labels: Cloud-Computing, Edge-Computing, Fog-Computing
+assignees: 'Memn'
 
 ---
 
@@ -11,6 +11,7 @@ Wenn wir digital arbeiten, dann befinden wir uns in der Welt der Cloud-, Edge-, 
 
 ## Fragestellung
 
+t.b.d.
 *Was soll recherchiert werden?*
 
 ## Definition
@@ -32,7 +33,6 @@ Es gibt vier Typen einer Cloud Computing,
 4. Multi-Clouds.
 
 Diese waren früher unterscheidbar durch den Standort und deren Eigentumsrechte. 
-
 
 ## Art der Recherche?
 
