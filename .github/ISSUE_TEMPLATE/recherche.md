@@ -16,7 +16,7 @@ t.b.d.
 
 ## Definition
 
-- **Was ist ein Cloud Computing?** Cloud Computing, also die Ausführung von Workloads im jeweiligen System. 
+- **Was ist ein Cloud Computing?** Cloud Computing ist die Ausführung von Workloads im jeweiligen System. 
 
 Die Ausführung von Aufgaben in der Cloud, d. h. in einer IT-Umgebung, in der skalierbare Ressourcen aus einem Netzwerk entnommen, zusammengeführt und verteilt werden, wird als Cloud Computing bezeichnet. *Clouds und Cloud Computing sind keine Technologie an sich*.
 
